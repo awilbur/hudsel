@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="hudselNG" duration-ms="32939" started-at="2014-04-08T17:43:16Z" finished-at="2014-04-08T17:43:49Z">
+    <groups>
+    </groups>
+    <test name="GoogleSelenium" duration-ms="32939" started-at="2014-04-08T17:43:16Z" finished-at="2014-04-08T17:43:49Z">
+      <class name="GoogleSeleniumAjax">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:GoogleSeleniumAjax@175078b]" name="setUp" is-config="true" duration-ms="9462" started-at="2014-04-08T10:43:16Z" finished-at="2014-04-08T10:43:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:GoogleSeleniumAjax@175078b]" name="setUp" is-config="true" duration-ms="18001" started-at="2014-04-08T10:43:26Z" finished-at="2014-04-08T10:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testGoogleSeleniumAjax()[pri:0, instance:GoogleSeleniumAjax@175078b]" name="testGoogleSeleniumAjax" duration-ms="3995" started-at="2014-04-08T10:43:44Z" finished-at="2014-04-08T10:43:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleSeleniumAjax -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:GoogleSeleniumAjax@175078b]" name="tearDown" is-config="true" duration-ms="1469" started-at="2014-04-08T10:43:48Z" finished-at="2014-04-08T10:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:GoogleSeleniumAjax@175078b]" name="tearDown" is-config="true" duration-ms="0" started-at="2014-04-08T10:43:49Z" finished-at="2014-04-08T10:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- GoogleSeleniumAjax -->
+    </test> <!-- GoogleSelenium -->
+  </suite> <!-- hudselNG -->
+</testng-results>
